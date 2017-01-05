@@ -1,6 +1,10 @@
 # GaoDeMapDemo
 **高德地图的演示**
 
+**服务端代码[MapServer](/MapServer)**
+
+**客户端代码[GaoDeclient](/GaoDeMapclient)**
+
 **连接wifi**
 **然后打开服务端[服务端apk地址](/other/mapServer.apk)**
 
